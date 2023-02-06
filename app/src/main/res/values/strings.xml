@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="accuiel">PomodoroFocus</string>
+    <string name="Focus">Staying focused at work isnt easy! </string>
+    <string name="pof">PomodoroFocus</string>
+    <string name="todo">TO DO</string>
+    <string name="categorie">choose a category</string>
+    <string name="add">Add Task</string>
+    <string name="pot">Take a pomodoro</string>
+    <string name="time">25:00</string>
+    <string name="start">START</string>
+    <string name="reset"> Reset</string>
+    <string name="time1">05:00</string>
+    <string name="time2">15:00</string>
+    <string name="keep">Keep going</string>
+
+</resources>
